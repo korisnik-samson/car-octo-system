@@ -5,9 +5,7 @@ import Image from "next/image";
 import { CustomButton } from "@/components/index";
 
 const Hero = () => {
-    const handleScroll = () => {
-
-    }
+    const handleScroll = () => {}
 
     return (
         <div className="hero">
